@@ -2,4 +2,4 @@
 
 Tradutor de artigos técnicos utilizando Python e o serviço Azure Openai, executado no Google Colab.
 
-Projeto desenvolvido como atividade prática em conjunto com o professor, com adaptações e implementação própria para tradução de texto e arquivos.
+Projeto desenvolvido como atividade prática em conjunto com o professor, com adaptações e implementação própria para tradução Artigos.
