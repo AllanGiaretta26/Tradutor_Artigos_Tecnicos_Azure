@@ -2,4 +2,4 @@
 
 Tradutor de artigos técnicos utilizando Python e o serviço Azure, executado no Google Colab.
 
-Projeto desenvolvido como atividade prática em conjunto com o professor, com adaptações e implementação própria para tradução Artigos e tradução de arquivos.
+Projeto desenvolvido como atividade prática, com adaptações e implementação própria para tradução Artigos e tradução de arquivos.
