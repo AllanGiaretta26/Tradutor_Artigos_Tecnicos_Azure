@@ -1,7 +1,5 @@
 # Tradutor de Artigos Técnicos com Azure AI
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AllanGiaretta26/Tradutor_Artigos_Tecnicos_Azure)
-
 Tradutor inteligente de artigos técnicos e documentos utilizando **Python**, **Azure AI Translator** e **Azure OpenAI**, executado no Google Colab.
 
 ## 📋 Sobre o Projeto
